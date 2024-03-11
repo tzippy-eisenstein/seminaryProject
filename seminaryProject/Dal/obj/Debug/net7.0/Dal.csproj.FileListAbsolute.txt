@@ -1,0 +1,59 @@
+G:\B\Walden\g2\Lesson16_NTiers\Dal\bin\Debug\net7.0\Dal.deps.json
+G:\B\Walden\g2\Lesson16_NTiers\Dal\bin\Debug\net7.0\Dal.dll
+G:\B\Walden\g2\Lesson16_NTiers\Dal\bin\Debug\net7.0\Dal.pdb
+G:\B\Walden\g2\Lesson16_NTiers\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+G:\B\Walden\g2\Lesson16_NTiers\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+G:\B\Walden\g2\Lesson16_NTiers\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+G:\B\Walden\g2\Lesson16_NTiers\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+G:\B\Walden\g2\Lesson16_NTiers\Dal\obj\Debug\net7.0\Dal.dll
+G:\B\Walden\g2\Lesson16_NTiers\Dal\obj\Debug\net7.0\refint\Dal.dll
+G:\B\Walden\g2\Lesson16_NTiers\Dal\obj\Debug\net7.0\Dal.pdb
+G:\B\Walden\g2\Lesson16_NTiers\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\ref\Dal.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Dal\bin\Debug\net7.0\Dal.deps.json
+D:\שנה ב\פרויקט חיפוש בתנך\Dal\bin\Debug\net7.0\Dal.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Dal\bin\Debug\net7.0\Dal.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+D:\שנה ב\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+D:\שנה ב\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+D:\שנה ב\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\Dal.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\refint\Dal.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\Dal.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\ref\Dal.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+D:\שנה ב\seminar_project\seminaryProject\Dal\bin\Debug\net7.0\Dal.deps.json
+D:\שנה ב\seminar_project\seminaryProject\Dal\bin\Debug\net7.0\Dal.dll
+D:\שנה ב\seminar_project\seminaryProject\Dal\bin\Debug\net7.0\Dal.pdb
+D:\שנה ב\seminar_project\seminaryProject\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+D:\שנה ב\seminar_project\seminaryProject\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\seminar_project\seminaryProject\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+D:\שנה ב\seminar_project\seminaryProject\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+D:\שנה ב\seminar_project\seminaryProject\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+D:\שנה ב\seminar_project\seminaryProject\Dal\obj\Debug\net7.0\Dal.dll
+D:\שנה ב\seminar_project\seminaryProject\Dal\obj\Debug\net7.0\refint\Dal.dll
+D:\שנה ב\seminar_project\seminaryProject\Dal\obj\Debug\net7.0\Dal.pdb
+D:\שנה ב\seminar_project\seminaryProject\Dal\obj\Debug\net7.0\ref\Dal.dll
+D:\שנה ב\seminar_project\seminaryProject\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+D:\שנה ב\seminar_project\seminaryProject\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache

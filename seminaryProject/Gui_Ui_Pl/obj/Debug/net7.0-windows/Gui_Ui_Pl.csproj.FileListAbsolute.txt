@@ -1,0 +1,49 @@
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\bin\Debug\net7.0-windows\Gui_Ui_Pl.exe
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\bin\Debug\net7.0-windows\Gui_Ui_Pl.deps.json
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\bin\Debug\net7.0-windows\Gui_Ui_Pl.runtimeconfig.json
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\bin\Debug\net7.0-windows\Gui_Ui_Pl.dll
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\bin\Debug\net7.0-windows\Gui_Ui_Pl.pdb
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.Form1.resources
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.csproj.GenerateResource.cache
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.GeneratedMSBuildEditorConfig.editorconfig
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.AssemblyInfoInputs.cache
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.AssemblyInfo.cs
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.csproj.CoreCompileInputs.cache
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.dll
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\obj\Debug\net7.0-windows\refint\Gui_Ui_Pl.dll
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.pdb
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.genruntimeconfig.cache
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\obj\Debug\net7.0-windows\ref\Gui_Ui_Pl.dll
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\bin\Debug\net7.0-windows\Bll.dll
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\bin\Debug\net7.0-windows\Dal.dll
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\bin\Debug\net7.0-windows\DTO_Enteties_PICO.dll
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\bin\Debug\net7.0-windows\Bll.pdb
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\bin\Debug\net7.0-windows\DTO_Enteties_PICO.pdb
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\bin\Debug\net7.0-windows\Dal.pdb
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.csproj.AssemblyReference.cache
+G:\B\Walden\g2\Lesson16_NTiers\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.csproj.CopyComplete
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\bin\Debug\net7.0-windows\Gui_Ui_Pl.exe
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\bin\Debug\net7.0-windows\Gui_Ui_Pl.deps.json
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\bin\Debug\net7.0-windows\Gui_Ui_Pl.runtimeconfig.json
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\bin\Debug\net7.0-windows\Gui_Ui_Pl.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\bin\Debug\net7.0-windows\Gui_Ui_Pl.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\bin\Debug\net7.0-windows\Bll.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\bin\Debug\net7.0-windows\Dal.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\bin\Debug\net7.0-windows\DTO_Enteties_PICO.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\bin\Debug\net7.0-windows\Bll.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\bin\Debug\net7.0-windows\DTO_Enteties_PICO.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\bin\Debug\net7.0-windows\Dal.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.csproj.AssemblyReference.cache
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.Form1.resources
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.csproj.GenerateResource.cache
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.AssemblyInfoInputs.cache
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.AssemblyInfo.cs
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.csproj.CoreCompileInputs.cache
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.csproj.CopyComplete
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\obj\Debug\net7.0-windows\refint\Gui_Ui_Pl.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\obj\Debug\net7.0-windows\Gui_Ui_Pl.genruntimeconfig.cache
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\obj\Debug\net7.0-windows\ref\Gui_Ui_Pl.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Gui_Ui_Pl\bin\Debug\net7.0-windows\Newtonsoft.Json.dll

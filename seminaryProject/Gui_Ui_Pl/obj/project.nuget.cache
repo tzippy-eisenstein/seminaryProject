@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HeeNSPTrd/cc6jLdpkjzY+GongOg8s89HDR84TXp5RQ/3NYXWSMHFs144X1fyWEySjp9GSYcIw1jbcno5PWIow==",
+  "success": true,
+  "projectFilePath": "D:\\שנה ב\\seminar_project\\seminaryProject\\Gui_Ui_Pl\\Gui_Ui_Pl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

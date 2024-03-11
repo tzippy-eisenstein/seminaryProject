@@ -1,0 +1,62 @@
+G:\B\Walden\g2\Lesson16_NTiers\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.deps.json
+G:\B\Walden\g2\Lesson16_NTiers\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.dll
+G:\B\Walden\g2\Lesson16_NTiers\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.pdb
+G:\B\Walden\g2\Lesson16_NTiers\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.GeneratedMSBuildEditorConfig.editorconfig
+G:\B\Walden\g2\Lesson16_NTiers\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.AssemblyInfoInputs.cache
+G:\B\Walden\g2\Lesson16_NTiers\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.AssemblyInfo.cs
+G:\B\Walden\g2\Lesson16_NTiers\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.csproj.CoreCompileInputs.cache
+G:\B\Walden\g2\Lesson16_NTiers\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.dll
+G:\B\Walden\g2\Lesson16_NTiers\DTO_Enteties_PICO\obj\Debug\net7.0\refint\DTO_Enteties_PICO.dll
+G:\B\Walden\g2\Lesson16_NTiers\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.pdb
+G:\B\Walden\g2\Lesson16_NTiers\DTO_Enteties_PICO\obj\Debug\net7.0\ref\DTO_Enteties_PICO.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.deps.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.AssemblyInfoInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.AssemblyInfo.cs
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.csproj.CoreCompileInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\DTO_Enteties_PICO\obj\Debug\net7.0\refint\DTO_Enteties_PICO.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\DTO_Enteties_PICO\obj\Debug\net7.0\ref\DTO_Enteties_PICO.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.deps.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.AssemblyInfoInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.AssemblyInfo.cs
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.csproj.CoreCompileInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\refint\DTO_Enteties_PICO.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\ref\DTO_Enteties_PICO.dll
+D:\שנה ב\פרויקט חיפוש בתנך\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.deps.json
+D:\שנה ב\פרויקט חיפוש בתנך\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.dll
+D:\שנה ב\פרויקט חיפוש בתנך\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.AssemblyInfoInputs.cache
+D:\שנה ב\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.AssemblyInfo.cs
+D:\שנה ב\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.csproj.CoreCompileInputs.cache
+D:\שנה ב\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.dll
+D:\שנה ב\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\refint\DTO_Enteties_PICO.dll
+D:\שנה ב\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\ref\DTO_Enteties_PICO.dll
+D:\שנה ב\פרויקט חיפוש בתנך\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.csproj.AssemblyReference.cache
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.deps.json
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.runtimeconfig.json
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.dll
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\bin\Debug\net7.0\DTO_Enteties_PICO.pdb
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.csproj.AssemblyReference.cache
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.AssemblyInfoInputs.cache
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.AssemblyInfo.cs
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.csproj.CoreCompileInputs.cache
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.dll
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\obj\Debug\net7.0\refint\DTO_Enteties_PICO.dll
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.pdb
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.genruntimeconfig.cache
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\obj\Debug\net7.0\ref\DTO_Enteties_PICO.dll
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\bin\Debug\net7.0\Dal.dll
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\bin\Debug\net7.0\Dal.pdb
+D:\שנה ב\seminar_project\seminaryProject\DTO_Enteties_PICO\obj\Debug\net7.0\DTO_Enteties_PICO.csproj.CopyComplete

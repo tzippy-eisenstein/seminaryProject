@@ -1,0 +1,87 @@
+G:\B\Walden\g2\Lesson16_NTiers\Bll\bin\Debug\net7.0\Bll.deps.json
+G:\B\Walden\g2\Lesson16_NTiers\Bll\bin\Debug\net7.0\Bll.dll
+G:\B\Walden\g2\Lesson16_NTiers\Bll\bin\Debug\net7.0\Bll.pdb
+G:\B\Walden\g2\Lesson16_NTiers\Bll\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+G:\B\Walden\g2\Lesson16_NTiers\Bll\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+G:\B\Walden\g2\Lesson16_NTiers\Bll\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+G:\B\Walden\g2\Lesson16_NTiers\Bll\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+G:\B\Walden\g2\Lesson16_NTiers\Bll\obj\Debug\net7.0\Bll.dll
+G:\B\Walden\g2\Lesson16_NTiers\Bll\obj\Debug\net7.0\refint\Bll.dll
+G:\B\Walden\g2\Lesson16_NTiers\Bll\obj\Debug\net7.0\Bll.pdb
+G:\B\Walden\g2\Lesson16_NTiers\Bll\obj\Debug\net7.0\ref\Bll.dll
+G:\B\Walden\g2\Lesson16_NTiers\Bll\bin\Debug\net7.0\Dal.dll
+G:\B\Walden\g2\Lesson16_NTiers\Bll\bin\Debug\net7.0\DTO_Enteties_PICO.dll
+G:\B\Walden\g2\Lesson16_NTiers\Bll\bin\Debug\net7.0\Dal.pdb
+G:\B\Walden\g2\Lesson16_NTiers\Bll\bin\Debug\net7.0\DTO_Enteties_PICO.pdb
+G:\B\Walden\g2\Lesson16_NTiers\Bll\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+G:\B\Walden\g2\Lesson16_NTiers\Bll\obj\Debug\net7.0\Bll.csproj.CopyComplete
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\bin\Debug\net7.0\Bll.deps.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\bin\Debug\net7.0\Bll.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\bin\Debug\net7.0\Bll.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\bin\Debug\net7.0\Dal.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\bin\Debug\net7.0\DTO_Enteties_PICO.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\bin\Debug\net7.0\Dal.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\bin\Debug\net7.0\DTO_Enteties_PICO.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\obj\Debug\net7.0\Bll.csproj.CopyComplete
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\obj\Debug\net7.0\Bll.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\obj\Debug\net7.0\refint\Bll.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\obj\Debug\net7.0\Bll.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\Bll\obj\Debug\net7.0\ref\Bll.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\bin\Debug\net7.0\Bll.deps.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\bin\Debug\net7.0\Bll.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\bin\Debug\net7.0\Bll.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\bin\Debug\net7.0\Dal.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\bin\Debug\net7.0\DTO_Enteties_PICO.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\bin\Debug\net7.0\Dal.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\bin\Debug\net7.0\DTO_Enteties_PICO.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.csproj.CopyComplete
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\refint\Bll.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\ref\Bll.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\bin\Debug\net7.0\Bll.deps.json
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\bin\Debug\net7.0\Bll.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\bin\Debug\net7.0\Bll.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\bin\Debug\net7.0\Dal.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\bin\Debug\net7.0\DTO_Enteties_PICO.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\bin\Debug\net7.0\Dal.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\bin\Debug\net7.0\DTO_Enteties_PICO.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.csproj.CopyComplete
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\refint\Bll.dll
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\Bll.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\Bll\obj\Debug\net7.0\ref\Bll.dll
+D:\שנה ב\seminar_project\seminaryProject\Bll\bin\Debug\net7.0\Bll.deps.json
+D:\שנה ב\seminar_project\seminaryProject\Bll\bin\Debug\net7.0\Bll.runtimeconfig.json
+D:\שנה ב\seminar_project\seminaryProject\Bll\bin\Debug\net7.0\Bll.dll
+D:\שנה ב\seminar_project\seminaryProject\Bll\bin\Debug\net7.0\Bll.pdb
+D:\שנה ב\seminar_project\seminaryProject\Bll\bin\Debug\net7.0\Dal.dll
+D:\שנה ב\seminar_project\seminaryProject\Bll\bin\Debug\net7.0\DTO_Enteties_PICO.dll
+D:\שנה ב\seminar_project\seminaryProject\Bll\bin\Debug\net7.0\Dal.pdb
+D:\שנה ב\seminar_project\seminaryProject\Bll\bin\Debug\net7.0\DTO_Enteties_PICO.pdb
+D:\שנה ב\seminar_project\seminaryProject\Bll\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+D:\שנה ב\seminar_project\seminaryProject\Bll\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\seminar_project\seminaryProject\Bll\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+D:\שנה ב\seminar_project\seminaryProject\Bll\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+D:\שנה ב\seminar_project\seminaryProject\Bll\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+D:\שנה ב\seminar_project\seminaryProject\Bll\obj\Debug\net7.0\Bll.csproj.CopyComplete
+D:\שנה ב\seminar_project\seminaryProject\Bll\obj\Debug\net7.0\Bll.dll
+D:\שנה ב\seminar_project\seminaryProject\Bll\obj\Debug\net7.0\refint\Bll.dll
+D:\שנה ב\seminar_project\seminaryProject\Bll\obj\Debug\net7.0\Bll.pdb
+D:\שנה ב\seminar_project\seminaryProject\Bll\obj\Debug\net7.0\Bll.genruntimeconfig.cache
+D:\שנה ב\seminar_project\seminaryProject\Bll\obj\Debug\net7.0\ref\Bll.dll

@@ -1,0 +1,240 @@
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\appsettings.json
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\Bll.dll
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\Dal.dll
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\DTO_Enteties_PICO.dll
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\Bll.pdb
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\DTO_Enteties_PICO.pdb
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\bin\Debug\net7.0\Dal.pdb
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+G:\B\Walden\g2\Lesson16_NTiers\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\Bll.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\Dal.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\DTO_Enteties_PICO.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\Bll.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\DTO_Enteties_PICO.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\bin\Debug\net7.0\Dal.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\‏‏Lesson16_NTiers - עותק\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Bll.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Dal.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\DTO_Enteties_PICO.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Bll.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\DTO_Enteties_PICO.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Dal.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\The user\Documents\חומר מסלול להעביר ל d\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\appsettings.json
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Bll.dll
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Dal.dll
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\DTO_Enteties_PICO.dll
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Bll.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\DTO_Enteties_PICO.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Dal.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+D:\שנה ב\פרויקט חיפוש בתנך\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\appsettings.json
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Azure.Core.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Azure.Identity.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\System.Memory.Data.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Bll.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Dal.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\DTO_Enteties_PICO.dll
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Bll.pdb
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\Dal.pdb
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\bin\Debug\net7.0\DTO_Enteties_PICO.pdb
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+D:\שנה ב\seminar_project\seminaryProject\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll

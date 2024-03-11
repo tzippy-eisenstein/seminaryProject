@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\B\\Walden\\g2\\Lesson16_NTiers\\WebApi\\WebApi.csproj": {}
+  },
+  "projects": {
+    "G:\\B\\Walden\\g2\\Lesson16_NTiers\\Bll\\Bll.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\Bll\\Bll.csproj",
+        "projectName": "Bll",
+        "projectPath": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\Bll\\Bll.csproj",
+        "packagesPath": "C:\\Users\\059142620\\.nuget\\packages\\",
+        "outputPath": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\Bll\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\059142620\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "G:\\B\\Walden\\g2\\Lesson16_NTiers\\Dal\\Dal.csproj": {
+                "projectPath": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\Dal\\Dal.csproj"
+              },
+              "G:\\B\\Walden\\g2\\Lesson16_NTiers\\DTO_Enteties_PICO\\DTO_Enteties_PICO.csproj": {
+                "projectPath": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\DTO_Enteties_PICO\\DTO_Enteties_PICO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\B\\Walden\\g2\\Lesson16_NTiers\\Dal\\Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\Dal\\Dal.csproj",
+        "projectName": "Dal",
+        "projectPath": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\Dal\\Dal.csproj",
+        "packagesPath": "C:\\Users\\059142620\\.nuget\\packages\\",
+        "outputPath": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\059142620\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "G:\\B\\Walden\\g2\\Lesson16_NTiers\\DTO_Enteties_PICO\\DTO_Enteties_PICO.csproj": {
+                "projectPath": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\DTO_Enteties_PICO\\DTO_Enteties_PICO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\B\\Walden\\g2\\Lesson16_NTiers\\DTO_Enteties_PICO\\DTO_Enteties_PICO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\DTO_Enteties_PICO\\DTO_Enteties_PICO.csproj",
+        "projectName": "DTO_Enteties_PICO",
+        "projectPath": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\DTO_Enteties_PICO\\DTO_Enteties_PICO.csproj",
+        "packagesPath": "C:\\Users\\059142620\\.nuget\\packages\\",
+        "outputPath": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\DTO_Enteties_PICO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\059142620\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\B\\Walden\\g2\\Lesson16_NTiers\\WebApi\\WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\WebApi\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\059142620\\.nuget\\packages\\",
+        "outputPath": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\059142620\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "G:\\B\\Walden\\g2\\Lesson16_NTiers\\Bll\\Bll.csproj": {
+                "projectPath": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\Bll\\Bll.csproj"
+              },
+              "G:\\B\\Walden\\g2\\Lesson16_NTiers\\DTO_Enteties_PICO\\DTO_Enteties_PICO.csproj": {
+                "projectPath": "G:\\B\\Walden\\g2\\Lesson16_NTiers\\DTO_Enteties_PICO\\DTO_Enteties_PICO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
